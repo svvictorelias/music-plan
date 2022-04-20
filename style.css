@@ -8,7 +8,8 @@
     font-family: 'Red Hat Display', sans-serif;
 }
 body{
-    display: flex;
+    padding: 10px;
+    display: grid;
     align-items: center;
     justify-content: center;
     width: 100%;
